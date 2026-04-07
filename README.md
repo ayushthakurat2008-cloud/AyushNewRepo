@@ -1,2 +1,3 @@
 # AyushNewRepo
-Repository for assignment-02_Create_New_Repo
+This repository contains the source code for My Project,
+a simple application to demonstrate GIT usage.
